@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ディメンション",
+  "base_artist": "ヰ世界情緒",
+  "createdAt": "2025-12-29T07:29:55.154705Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ディメンション",
+      "artist": "ヰ世界情緒",
+      "has_synced": true,
+      "path": "select/01_ディメンション_ヰ世界情緒.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ディメンション - Live at Virtual, 2022",
+      "artist": "ヰ世界情緒",
+      "has_synced": true,
+      "path": "select/02_ディメンション_-_Live_at_Virtual,_2022_ヰ世界情緒.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ディメンション",
+      "artist": "ヰ世界情緒",
+      "has_synced": false,
+      "path": "select/pl_01_ディメンション_ヰ世界情緒.txt"
+    }
+  ]
+}
